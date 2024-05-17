@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋, I'm Andre
+I am a student at University of the Philippines - Baguio.
+I am currently taking up a degree in Computer Science.
+
+Likes: dog, cat, watching anime, reading manga, not coding, and ReoNa >.<
 
 <!--
 **AndreBryant/AndreBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
