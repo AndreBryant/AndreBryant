@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Andre
 
-I am a student at University of the Philippines - Baguio.
+I am a student at University of the Philippines - Baguio. <br>
 I am currently taking up a degree in Computer Science.
 
 Likes: dog, cat, watching anime, reading manga, not coding, and ReoNa >.<
