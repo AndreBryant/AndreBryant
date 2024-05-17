@@ -1,4 +1,5 @@
-### Hi there👋, I'm Andre
+## Hi there👋, I'm Andre
+
 I am a student at University of the Philippines - Baguio.
 I am currently taking up a degree in Computer Science.
 
