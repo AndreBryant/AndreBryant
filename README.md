@@ -4,6 +4,7 @@ I am a student at University of the Philippines - Baguio, currently pursuing a d
 
 <details>
   <summary><ins>Personal Website:</samp></summary>
+  <p align="center"><img src="./img/dio.png" alt="dio" style="align: center;"/></p>
   <p>None yet</p>
 </details>
 
