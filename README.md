@@ -3,7 +3,7 @@
 I am a student at University of the Philippines - Baguio, currently pursuing a degree in Computer Science.
 
 <details>
-  <summary><samp><ins>Personal Website:</ins></samp></summary>
+  <summary><ins>Personal Website:</samp></summary>
   <p>None yet</p>
 </details>
 
