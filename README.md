@@ -2,14 +2,6 @@
 
 I am a student at University of the Philippines - Baguio, currently pursuing a degree in Computer Science.
 
-<details>
-  <summary><ins>Personal Website:</samp></summary>
-  <p align="center"><img src="./img/dio.png" alt="dio" style="align: center;"/></p>
-  <p>None yet</p>
-</details>
-
-Likes: dog, cat, watching anime, reading manga, not coding, and ReoNa >.<
-
 <!--
 **AndreBryant/AndreBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
