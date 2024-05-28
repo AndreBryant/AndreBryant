@@ -2,7 +2,7 @@
 
 I am a student at University of the Philippines - Baguio, currently pursuing a degree in Computer Science.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)
   
 <!--
 **AndreBryant/AndreBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
