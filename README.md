@@ -1,7 +1,7 @@
 ## Hi there👋, I'm Andre
 
 I am a student at University of the Philippines - Baguio, currently pursuing a degree in Computer Science.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant" align=center/>
 <!--
 **AndreBryant/AndreBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
