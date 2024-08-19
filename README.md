@@ -39,7 +39,7 @@ const Andre = {
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raielaaa&label=Profile%20views&color=0e75b6&style=flat" alt="raielaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreBryant&label=Profile%20views&color=0e75b6&style=flat" alt="AndreBryant" /> </p>
 <!--
 **AndreBryant/AndreBryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
