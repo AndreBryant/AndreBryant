@@ -24,7 +24,7 @@ const Andre = {
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant&layout=compact&langs_count=12"/>
 </p>
-<p href="https://github.com/AndreBryant">
+<p align="center" href="https://github.com/AndreBryant">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreBryant"/>
 </p>
 
