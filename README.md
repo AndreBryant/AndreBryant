@@ -4,7 +4,7 @@ I am a student at University of the Philippines - Baguio, currently pursuing a d
 
 <!--![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" /></p>
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant&layout=compact&langs_count=12)](https://github.com/AndreBryant)
 
