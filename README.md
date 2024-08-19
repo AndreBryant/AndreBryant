@@ -21,11 +21,9 @@ const Andre = {
 <!--![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)-->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" /></p>
-<p align="center" href="https://github.com/AndreBryant">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant&layout=compact&langs_count=12"/>
-</p>
-<p align="center" href="https://github.com/AndreBryant">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreBryant"/>
+<p href="https://github.com/AndreBryant">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBryant&layout=compact&langs_count=12"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndreBryant"/>
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
