@@ -20,7 +20,7 @@ const Andre = {
 
 <!--![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)-->
 
-<p href="https://github.com/AndreBryant">
+<p align="center" href="https://github.com/AndreBryant">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreBryant"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" />
 </p>
