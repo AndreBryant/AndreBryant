@@ -2,20 +2,20 @@
 
 ```javascript
 const Andre = {
-  pronouns: "he" | "him",
-  code: 'Anything related to HTML, CSS, and Javascript/Typescript',
-  tools: [NodeJs, TailwindCSS, SvelteKit, P5.JS],
-  school: 'University of the Philippines-Baguio',
-  degree: 'BS Computer Science',
-  organization: {
-      "COMSCI@UP.BAG": {
-          'Resident Member': {
-            'Research Committee': '2022-present'
-          }
-      }
-  },
-  likes: 'I enjoy creative coding and coding in Javascript'
-}
+	pronouns: 'he' || 'him',
+	code: 'Anything related to HTML, CSS, and Javascript/Typescript',
+	tools: [NodeJs, TailwindCSS, SvelteKit, P5.JS],
+	school: 'University of the Philippines-Baguio',
+	degree: 'BS Computer Science',
+	organizations: [
+		{
+			'COMSCI@UP.BAG': {
+				'Resident Member': [{ 'Research Committee': '2022-present' }]
+			}
+		}
+	],
+	likes: 'I enjoy creative coding and coding in Javascript'
+};
 ```
 
 <!--![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)-->
