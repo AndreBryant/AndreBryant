@@ -10,7 +10,11 @@ const Andre = {
 	organizations: [
 		{
 			'COMSCI@UP.BAG': {
-				'Resident Member': [{ 'Research Committee': '2022-present' }]
+				'Resident Member': [
+					{ 'Research Committee': '2022-2023' },
+					{ 'Research Committee': '2023-2024' },
+					{ 'Research Committee': '2024-2025' },
+				]
 			}
 		}
 	],
