@@ -30,7 +30,7 @@ const Andre = {
 ## 
 <p align="center" href="https://github.com/AndreBryant">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreBryant"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBryant&" alt="AndreBryant" /> -->
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
