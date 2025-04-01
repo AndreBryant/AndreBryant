@@ -18,7 +18,7 @@ const Andre = {
 			},
 			'AWS Learning Club Baguio Maroons': {
 				'Skill Builder': [
-					{ 'Lead Software/ Webdev OFficer': '2024 - present' },
+					{ 'Lead Software/ Webdev OFficer': '2024 - March 2025 (Resignation)' },
 				]
 			}
 		}
