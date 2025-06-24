@@ -15,11 +15,6 @@ const Andre = {
 					{ 'Research Committee': '2023-2024' },
 					{ 'Research Committee': '2024-2025' },
 				]
-			},
-			'AWS Learning Club Baguio Maroons': {
-				'Skill Builder': [
-					{ 'Lead Software/ Webdev OFficer': '2024 - March 2025 (Resignation)' },
-				]
 			}
 		}
 	],
