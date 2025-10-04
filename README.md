@@ -1,5 +1,9 @@
 ## Hi there👋, I'm Andre
 
+My Portfolio Website: [andre-bryant-portfolio.vercel.app](https://andre-bryant-portfolio.vercel.app)
+<img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/821c183a-feb6-4435-89c0-c1343956d51a" />
+
+## 
 ```javascript
 const Andre = {
 	pronouns: 'he' || 'him',
@@ -21,11 +25,6 @@ const Andre = {
 	likes: 'I enjoy creative coding and coding in Javascript'
 };
 ```
-
-## My Portfolio Website: 
-[andre-bryant-portfolio.vercel.app](https://andre-bryant-portfolio.vercel.app)
-<img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/821c183a-feb6-4435-89c0-c1343956d51a" />
-
 <!--![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreBryant&show_icons=true&theme=dark)-->
 ## 
 <p align="center" href="https://github.com/AndreBryant">
