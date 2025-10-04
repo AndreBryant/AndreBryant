@@ -1,7 +1,10 @@
 ## Hi there👋, I'm Andre
 
 My Portfolio Website: [andre-bryant-portfolio.vercel.app](https://andre-bryant-portfolio.vercel.app)
-<img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/821c183a-feb6-4435-89c0-c1343956d51a" />
+<!-- <img width="1856" height="946" alt="image" src="https://github.com/user-attachments/assets/821c183a-feb6-4435-89c0-c1343956d51a" /> -->
+<video autoplay loop muted src="https://github.com/user-attachments/assets/7f411351-3f77-43b8-8d52-a5ada3d8fec1"/>
+
+
 
 ## 
 ```javascript
