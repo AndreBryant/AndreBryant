@@ -13,6 +13,7 @@ const Andre = {
 	tools: [NodeJs, TailwindCSS, SvelteKit, P5.JS],
 	school: 'University of the Philippines-Baguio',
 	degree: 'BS Computer Science',
+	graduationDate: new Date(1753113600000),
 	organizations: [
 		{
 			'COMSCI@UP.BAG': {
